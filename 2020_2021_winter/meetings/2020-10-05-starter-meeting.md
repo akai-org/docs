@@ -1,5 +1,5 @@
 # Spotkanie organizacyjne AKAI 
-###### 12.10.2020
+###### 05.10.2020
 
 ### Spis treści:
 - [Budżet](#Budzet)
