@@ -1,6 +1,5 @@
 # Spotkanie organizacyjne AKAI 
 ###### 12.10.2020
-![Meme](https://preview.redd.it/q9cov32d2bq51.jpg?width=960&crop=smart&auto=webp&s=e2b3670736c523bd61a555b91042ceb26adbdeff)
 
 ### Spis treści:
 - [Budżet](#Budzet)
@@ -12,6 +11,8 @@
 - [Porzadki](#Porzadki)
 - [Rekrutacja](#Rekrutacja)
 - [Memiki](#Memiki)
+
+![Meme](https://preview.redd.it/q9cov32d2bq51.jpg?width=960&crop=smart&auto=webp&s=e2b3670736c523bd61a555b91042ceb26adbdeff)
 
 ## Budzet:
 Niedawno do RKN’u wysłaliśmy budżet, w którym umieściliśmy między innymi zapis o kursach oraz książkach na rzecz koła. Chcielibyśmy ogarnąć albo jakieś ebooki, albo wartościowe kursy np z Udemy i udostępnić je dla członków koła. Jeżeli ktokolwiek ma jakieś jakieś pomysły, co byłoby warte uwagi, zapraszam do pisania 😉 Również jesteśmy w stanie przeznaczyć część budżetu na elektronikę (trochę tego już mamy).
