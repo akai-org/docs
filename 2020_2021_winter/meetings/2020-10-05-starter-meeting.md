@@ -1,17 +1,17 @@
 # Spotkanie organizacyjne AKAI 
 ###### 12.10.2020
-![Meme](https://scontent.fpoz2-1.fna.fbcdn.net/v/t1.0-9/120841811_3329511453834806_8743877504494821982_n.jpg)
+![Meme](https://preview.redd.it/q9cov32d2bq51.jpg)
 
 ### Spis treści:
-- [Budżet](#Budzet:)
-- [Stypendia](#Stypendia:)
-- [Forma działania](#Forma_dzialania:)
-- [Projekty](#Projekty:)
-- [Wydarzenia](#Wydarzenia:)
-- [Wspolpraca_z_firmami](#Wspolpraca_z_firmami:)
-- [Porzadki](#Porzadki:)
-- [Rekrutacja](#Rekrutacja:)
-- [Memiki](#Memiki:)
+- [Budżet](#Budzet)
+- [Stypendia](#Stypendia)
+- [Forma działania](#Forma_dzialania)
+- [Projekty](#Projekty)
+- [Wydarzenia](#Wydarzenia)
+- [Wspolpraca_z_firmami](#Wspolpraca_z_firmami)
+- [Porzadki](#Porzadki)
+- [Rekrutacja](#Rekrutacja)
+- [Memiki](#Memiki)
 
 ## Budzet:
 Niedawno do RKN’u wysłaliśmy budżet, w którym umieściliśmy między innymi zapis o kursach oraz książkach na rzecz koła. Chcielibyśmy ogarnąć albo jakieś ebooki, albo wartościowe kursy np z Udemy i udostępnić je dla członków koła. Jeżeli ktokolwiek ma jakieś jakieś pomysły, co byłoby warte uwagi, zapraszam do pisania 😉 Również jesteśmy w stanie przeznaczyć część budżetu na elektronikę (trochę tego już mamy).
