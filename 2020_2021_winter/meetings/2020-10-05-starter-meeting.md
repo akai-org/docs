@@ -1,6 +1,6 @@
 # Spotkanie organizacyjne AKAI 
 ###### 12.10.2020
-![Meme](https://preview.redd.it/q9cov32d2bq51.jpg)
+![Meme](https://preview.redd.it/q9cov32d2bq51.jpg?width=960&crop=smart&auto=webp&s=e2b3670736c523bd61a555b91042ceb26adbdeff)
 
 ### Spis treści:
 - [Budżet](#Budzet)
