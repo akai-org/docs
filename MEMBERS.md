@@ -4,7 +4,7 @@
 ||||
 |---------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
 |    Marcin Sylka           | [mozzar](https://github.com/mozzar)                      | PHP, Laravel, CodeIgniter, HTML, CSS/SCSS, JS, Vue, Ansible,    |
-|							|														   | Python														     |
+|							|														   | Python, SQL-MySQL,postgres,T-SQL        					     |
 ||||
 
 
