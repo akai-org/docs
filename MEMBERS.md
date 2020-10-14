@@ -1,8 +1,8 @@
 |           Name            |              GitHub Nick                                 |             Technologies                                        |
 |---------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
 |    Marcin Ławniczak       | [marcinlawnik](https://github.com/marcinlawnik)          | PHP. Laravel. HTML, CSS/SCSS, JS, 3D Printing,                  |
+|      Filip Szóstak        | [cherit](htt[s://github.com/cheriit)                     | Laravel, HTML, SCSS, JS, React, Vue, Java, Python, Django, AI   |
 |    Wojciech Krystyniak    | [kezc](https://github.com/kezc)                          | Kotlin, Java                                                    |
-||||
 
 
  - Java
