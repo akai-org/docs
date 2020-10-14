@@ -13,18 +13,19 @@
 - Archiwum AKAI - skrót spotkań i archiwum znajdować się będzie w specjalnym [repozytorium](https://github.com/akai-org/docs)
 
 ## Porzadki:
-Ilość zarchiwizowanych projektów :package: : 
+Ilość zarchiwizowanych projektów :package: : 31
 
-Ilość projektów które zostały :recycle: : 
+Ilość projektów które zostały :recycle: : 37
 
-Ilość skasowanych projektów :x: : 
+Ilość skasowanych projektów :x: : 16
 
-Ilość projektów z dependabotami :robot:	: 13
+Ilość projektów z dependabotami :robot:	: 18
 
+Ilość AKAI page :smirk: : 8
 
 - AKAI Camp Webstarter - :package: - dwie wersje webstarterów. W webstarterach znajdowały się prezentacje które były wyświetlane, wszystko za pomocą JS ogarniane. Całość budowała się ze źródeł, a nie ze skompilowanej aplikacji, a manager paczek był na managerze paczek;
 
-- Slides for highschoon - :package: - prezentacje dla szkół średnich, w których AKAI się prezentowało;
+- Slides for highschool - :package: - prezentacje dla szkół średnich, w których AKAI się prezentowało;
 
 - Todo highschool - :package: - todo lista, MVC;
 
@@ -136,51 +137,51 @@ Ilość projektów z dependabotami :robot:	: 13
 
 - Apps - :recycle: - Agregacja wszystkich projektów;
 
-- Taskboard - :: - ;
+- Taskboard - :x: - Projekt widmo. Coś do zarządzania projektami. Kolejna todo-lista;
 
-- Movies Mobile - :: - ;
+- Movies Mobile - :recycle: - Apka do wyszukiwania i oceniania filmów;
 
-- Polifood Client - :: - ;
+- Polifood Client - :recycle: - Apka znajdująca najbliższe knajpki;
 
 - PageNotFound - :recycle: - PageNotFound;
 
-- PubQuiz App - :: - ;
+- PubQuiz App - :recycle: - Apka do PubQuizów, czekamy na to, aż skończy się pandemia;
 
-- Polifood Server - :: - ;
+- Polifood Server - :recycle: - Serwer do apki polifood;
 
-- Akai Page Gatsby - :: - ;
+- Akai Page Gatsby - :recycle: - Kolejna strona AKAI, która ma byc przerobiona;
 
 - Spring Example Kotlin - :x: - Warsztatowe przykłady;
 
 - Spring Example Java - :x: - Warsztatowe przykłady;
 
-- Finances Manager - :: - ;
+- Finances Manager - :x: - Zarządca finansami;
 
 - Advent Calendar - :recycle: - Kalendarz akademicki do aktualizacji;
 
-- Proxy Blog - :: - ;
+- Proxy Blog - :x: - Proxy pośrednik do bloga;
 
 - FakeCheck - :package: - HackEarth do zaktualizowania i podsumowania. Fajnie działający weryfikator fake newsów;
 
-- Frontend Workshops - :: - ;
+- Frontend Workshops - :recycle: - Warsztaty frontendowe, na które było dużo chętnych, do zaktualizowania dla Rycha;
 
-- AKAI Page - :: - ;
+- AKAI Page - :recycle: - Stronka AKAI. Kolejna. A mówili, że szewc bez butów chodzi;
 
-- Polihoot IT - :: - ;
+- Polihoot IT - :recycle: - Kahoot w wersji AKAI;
 
-- Finanse - :: - ;
+- Finanse - :x: - Kolejny manager finansów;
 
-- Jobs Web - :: - ;
+- Jobs Web - :package: - Działało, agregacja portali na prace;
 
-- Akai Manager Python - :: - ;
+- Akai Manager Python - :recycle: - Manager koła;
 
-- Lekarz - :: - ;
+- Lekarz - :package: - Kontakt ludzi z lekarzami;
 
-- Hackathons - :: - ;
+- Hackathons - :recycle: - lista hackathonów do zaktualizowania. Męczyć o to Patryka;
 
-- AKAI Generator Wniosków - :: - ;
+- AKAI Generator Wniosków - :recycle: - Generator wniosków stypendialnych, jest kilka drobiazgów do uzupełnienia;
 
-- Prawko Jazdy - :: - ;
+- Prawko Jazdy - :recycle: - apka dla instruktorów jazdy, dodawanie jazdy i godziny;
 
 - AKAI Bookcrossing - :recycle: - Projekt do wymiany książek między członkami koła;
 
