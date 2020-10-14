@@ -1,7 +1,7 @@
 |           Name            |              GitHub Nick                                 |             Technologies                                        |
 |---------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
 |    Marcin Ławniczak       | [marcinlawnik](https://github.com/marcinlawnik)          | PHP. Laravel. HTML, CSS/SCSS, JS, 3D Printing,                  |
-|      Dawid Dziedzic       | [Gumkle](https://github.com/Gumkle)                      | Java, Spring, Type Script, Go, Rust, 3D Printing, PHP, Vue      |
+|      Dawid Dziedzic       | [Gumkle](https://github.com/Gumkle)                      | Java, Python, TypeScript, Go, Rust, 3D Printing, PHP            |
 |       Filip Szóstak       | [Cheriit](https://github.com/cheriit)                    | Laravel, HTML, SCSS, JS, React, Vue, Java, Python, Django, AI   |
 |      Patryś Grzegorek     | [PatrykGrzegorek](https://github.com/PatrykGrzegorek)    | Python Django Flask MySQL Pandas HTML CSS/SCSS JS C++           |
 |     Michał Szczepaniak    | [Szczepaniak-M](https://github.com/Szczepaniak-M)        | Java, Spring, Python, Django, TS, Angular                       |
