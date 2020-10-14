@@ -7,6 +7,7 @@
 |     Michał Szczepaniak    | [Szczepaniak-M](https://github.com/Szczepaniak-M)        | Java, Spring, Python, Django, TS, Angular                       |
 |    Wojciech Krystyniak    | [kezc](https://github.com/kezc)                          | Kotlin, Java                                                    |
 |     Tobiasz Ciesielski    | [tobiaszciesielski](https://github.com/tobiaszciesielski)| HTML, CSS, JS, React, Node.js, Express, Python(ML)              |
+|       Łukasz Walczak      | [Szakull](https://github.com/Szakull)                    | Django, HTML, JS, C++, MySQL                                    |
 ||||
 
  - Java
