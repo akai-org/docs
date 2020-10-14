@@ -14,6 +14,6 @@ This lists the projects that were active during the semester
 
 | Name | Project Owner | Code link | Deployment Link | Description |
 |------|---------------|-----------|-----------------|-------------|
-|Bookcrossing| Michał Szczepaniak | https://github.com/akai-org/AKAI-bookcrossing |tymczasowo brak| Aplikacja webowa w Springu ułatwiająca wymianę książek miedzy członkami koła|
+|Bookcrossing| Michał Szczepaniak | [AKAI bookcrossing](https://github.com/akai-org/AKAI-bookcrossing) |tymczasowo brak| Aplikacja webowa w Springu ułatwiająca wymianę książek miedzy członkami koła|
 |      |               |           |                 |             |
 |      |               |           |                 |             |
