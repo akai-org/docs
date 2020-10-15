@@ -9,9 +9,8 @@
 |     Tobiasz Ciesielski    | [tobiaszciesielski](https://github.com/tobiaszciesielski)| HTML, CSS, JS, React, Node.js, Express, Python(ML)              |
 |       Łukasz Walczak      | [Szakull](https://github.com/Szakull)                    | Django, Python, C++, HTML, JS                                   |
 |  Aleksandra Świerkowska   | [AleksandraSwierkowska](https://github.com/AleksandraSwierkowska)| C, Python, Django              |
-|    Marcin Sylka           | [mozzar](https://github.com/mozzar)                      | PHP, Laravel, CodeIgniter, HTML, CSS/SCSS, JS, Vue, Ansible,    |
+|    Marcin Sylka           | [mozzar](https://github.com/mozzar)                      | PHP, Laravel, CodeIgniter, HTML, CSS, JS, Vue, Ansible, SQL-mysql/pgsql, Python     |
 |	   Krystian Frydryk      	| [krychaxp](https://github.com/krychaxp)				              | HTML, CSS, JS, React, Node.js, Express, AWS, Next.js, Gatsby    |
-|							              |														                               | Python, SQL-MySQL,postgres,T-SQL        					               |
 ||||
 
  - Java
