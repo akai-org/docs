@@ -11,7 +11,8 @@
 |  Aleksandra Świerkowska   | [AleksandraSwierkowska](https://github.com/AleksandraSwierkowska)| C, Python, Django              |
 |    Marcin Sylka           | [mozzar](https://github.com/mozzar)                      | PHP, Laravel, CodeIgniter, HTML, CSS/SCSS, JS, Vue, Ansible,    |
 |	   Krystian Frydryk      	| [krychaxp](https://github.com/krychaxp)				              | HTML, CSS, JS, React, Node.js, Express, AWS, Next.js, Gatsby    |
-|							                    |														                                            | Python, SQL-MySQL,postgres,T-SQL        					                   |
+|							              |														                               | Python, SQL-MySQL,postgres,T-SQL        					               |
+|    Bartosz Pietrowiak     | [BartoszPietrowiak](https://github.com/BartoszPietrowiak)| HTML,CSS,Python,Django,JS                                       |
 |      Kacper Wandel        | [TriathlonFreak] (https://github.com/TriathlonFreak)     | Phyton, C++, HTML                                               |
 
  - Java
