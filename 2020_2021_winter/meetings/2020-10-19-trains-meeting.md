@@ -12,6 +12,8 @@
 Na dzisiejszym spotkaniu odbyła się prezentacja [@roertbb](https://github.com/roertbb) i [@marcinlawnik](https://github.com/marcinlawnik) dotycząca projektu na studia w Elixirze
 [i_like_trains](https://github.com/marcinlawnik/i_like_trains) - implementacja gry "Wsiąść do pociągu". [Link do nagrania](https://drive.google.com/file/d/1G7bzuLdft3Uuw0xyDBXcX5Z5QzbRRfqA/view)
 
+AKAI TShirts zostało zarchiwizowane! :package:
+
 Linki:
  - Elixir:
    - Phoenix framework;
