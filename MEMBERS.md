@@ -1,6 +1,6 @@
 |           Name            |              GitHub Nick                                 |             Technologies                                        |
 |---------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
-|    Marcin Ławniczak       | [marcinlawnik](https://github.com/marcinlawnik)          | PHP. Laravel. HTML, CSS/SCSS, JS, 3D Printing,                  |
+|    Marcin Ławniczak       | [marcinlawnik](https://github.com/marcinlawnik)          | PHP, Laravel, HTML, CSS/SCSS, JS, 3D Printing,                  |
 |      Dawid Dziedzic       | [Gumkle](https://github.com/Gumkle)                      | Java, Python, TypeScript, Go, Rust, 3D Printing, PHP            |
 |       Filip Szóstak       | [Cheriit](https://github.com/cheriit)                    | Laravel, HTML, SCSS, JS, React, Vue, Java, Python, Django, AI   |
 |      Patryś Grzegorek     | [PatrykGrzegorek](https://github.com/PatrykGrzegorek)    | Python Django Flask MySQL Pandas HTML CSS/SCSS JS C++           |
@@ -13,8 +13,8 @@
 |	   Krystian Frydryk      	| [krychaxp](https://github.com/krychaxp)				              | HTML, CSS, JS, React, Node.js, Express, AWS, Next.js, Gatsby    |
 |							              |														                               | Python, SQL-MySQL,postgres,T-SQL        					               |
 |    Bartosz Pietrowiak     | [BartoszPietrowiak](https://github.com/BartoszPietrowiak)| HTML,CSS,Python,Django,JS                                       |
-|      Kacper Wandel        | [TriathlonFreak] (https://github.com/TriathlonFreak)     | Phyton, C++, HTML                                               |
-|     Piotr Derenowski       | [piter104] (https://github.com/piter104)                 | Python, Java Spring                                             | 
+|      Kacper Wandel        | [TriathlonFreak](https://github.com/TriathlonFreak)     | Phyton, C++, HTML                                               |
+|     Piotr Derenowski      | [piter104](https://github.com/piter104)                 | Python, Java Spring                                             | 
 
 
  - Java
