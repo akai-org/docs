@@ -16,7 +16,7 @@
 |     Piotr Derenowski      | [piter104](https://github.com/piter104)                  | Python, Java Spring                                             | 
 |     Damian Kalka          | [kalkson](https://github.com/kalkson)                    | HTML, CSS, SASS, JS, React, Gatsby, Node.js                     | 
 |     Wojciech Młyńczak     | [Southeaven](https://github.com/Southeaven)              | HTML, CSS/SASS, JS, TypeScript, React, Vue, Python, Rust, Java  |
-|     Krzysztof Jerzyk      | [Jerzor](https://github.com/jerzor                       | HTML, CSS, SASS, JS, Node.js                                    | 
+|     Krzysztof Jerzyk      | [Jerzor](https://github.com/jerzor)                      | HTML, CSS, SASS, JS, Node.js                                    | 
 
  - Java
  - Kotlin
