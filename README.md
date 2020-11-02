@@ -5,3 +5,4 @@
 
 ## Przydatne linki
 - [AKAI Assets](https://github.com/akai-org/akai-assets)
+- [Biblioteczka (wymagane konto AKAI)](https://drive.google.com/drive/folders/1DPp-EaQhSr3fOLhG62NlkQysqRMaJ0-g?usp=sharing)
