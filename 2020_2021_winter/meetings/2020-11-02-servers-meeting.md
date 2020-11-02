@@ -10,9 +10,9 @@
 ![Meme](https://i.redd.it/7wc86wel7uw51.jpg)
 
 ## Ogloszenia:
-Pojawił się nowy post o SQLite i Flutterze. Jak co spotkanie zapraszamy do review.
+Pojawił się nowy post o SQLite i Flutterze. Jak co spotkanie zapraszamy do review.[Link do artykułu](https://github.com/tobiaszciesielski/SQLite-flutter/blob/master/README.md)
 
-Zakupiony został serwer na kolejne 7 lat. Niech potomni będą wdzięczni!
+Zakupiona została domena na kolejne 7 lat. Niech potomni będą wdzięczni!
 
 Ponownie został omówiony rozwój Kalenarza Adewentowego AKAI i jego nowych designów. Chcemy wzorować się na [Advent of Code](https://adventofcode.com/)
 Członków koła zachęcamy do tworzenia zadań, które trafią do naszej wersji kaledarza.
