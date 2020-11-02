@@ -3,7 +3,7 @@
 |    Marcin Ławniczak       | [marcinlawnik](https://github.com/marcinlawnik)          | PHP, Laravel, HTML, CSS/SCSS, JS, 3D Printing,                  |
 |      Dawid Dziedzic       | [Gumkle](https://github.com/Gumkle)                      | Java, Python, TypeScript, Go, Rust, 3D Printing, PHP            |
 |       Filip Szóstak       | [Cheriit](https://github.com/cheriit)                    | Laravel, HTML, SCSS, JS, React, Vue, Java, Python, Django, AI   |
-|      Patryś Grzegorek     | [PatrykGrzegorek](https://github.com/PatrykGrzegorek)    | Python Django Flask MySQL Pandas HTML CSS/SCSS JS C++           |
+|      Patryś Grzegorek     | [PatrykGrzegorek](https://github.com/PatrykGrzegorek)    | Python, Django, MySQL, Pandas, HTML, CSS/SCSS, JS, C++, Unreal Engine|
 |     Michał Szczepaniak    | [Szczepaniak-M](https://github.com/Szczepaniak-M)        | Java, Spring, Python, Django, TS, Angular                       |
 |    Wojciech Krystyniak    | [kezc](https://github.com/kezc)                          | Kotlin, Java                                                    |
 |     Tobiasz Ciesielski    | [tobiaszciesielski](https://github.com/tobiaszciesielski)| HTML, CSS, JS, React, Node.js, Express, Python(ML)              |
@@ -51,3 +51,4 @@
  - Next.js
  - Gatsby
  - AWS
+ - Unreal Engine
