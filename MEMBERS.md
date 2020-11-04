@@ -14,6 +14,7 @@
 |    Bartosz Pietrowiak     | [BartoszPietrowiak](https://github.com/BartoszPietrowiak)| HTML,CSS,Python,Django,JS                                       |
 |      Kacper Wandel        | [TriathlonFreak](https://github.com/TriathlonFreak)      | Phyton, C++, HTML                                               |
 |     Piotr Derenowski      | [piter104](https://github.com/piter104)                  | Python, Java Spring                                             | 
+|    Aleksander Malcew      | [amalcew](https://github.com/amalcew)                    | Python, Django                                                  |
 |     Damian Kalka          | [kalkson](https://github.com/kalkson)                    | HTML, CSS, SASS, JS, React, Gatsby, Node.js                     | 
 |     Wojciech Młyńczak     | [Southeaven](https://github.com/Southeaven)              | HTML, CSS/SASS, JS, TypeScript, React, Vue, Python, Rust, Java  |
 |     Krzysztof Jerzyk      | [Jerzor](https://github.com/jerzor)                      | HTML, CSS, SASS, JS, Node.js                                    | 
