@@ -17,7 +17,8 @@
 |    Aleksander Malcew      | [amalcew](https://github.com/amalcew)                    | Python, Django                                                  |
 |     Damian Kalka          | [kalkson](https://github.com/kalkson)                    | HTML, CSS, SASS, JS, React, Gatsby, Node.js                     | 
 |     Wojciech Młyńczak     | [Southeaven](https://github.com/Southeaven)              | HTML, CSS/SASS, JS, TypeScript, React, Vue, Python, Rust, Java  |
-|     Krzysztof Jerzyk      | [Jerzor](https://github.com/jerzor)                      | HTML, CSS, SASS, JS, Node.js                                    | 
+|     Krzysztof Jerzyk      | [Jerzor](https://github.com/jerzor)                      | HTML, CSS, SASS, JS, Node.js                                    |
+|    Dawid Stasiak     | [dawids21](https://github.com/dawids21)                  | Java, Spring                                                        |
 
  - Java
  - Kotlin
