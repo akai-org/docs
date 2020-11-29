@@ -20,7 +20,7 @@
 |     Krzysztof Jerzyk      | [Jerzor](https://github.com/jerzor)                      | HTML, CSS, SASS, JS, Node.js                                    |
 |    Dawid Stasiak          | [dawids21](https://github.com/dawids21)                  | Java, Spring                                                    |
 |     Radosław Winiecki     | [radswn](https://github.com/radswn)                      | Java, Spring, Python                                            |
-|     Adam Lewandowski      | [ChairChandler](https://github.com/ChairChandler)               | C, C++, HTML, CSS, JS, TS, React, Angular, Python, ML, MySQL, Pandas, Node.js Express                                           |
+|     Adam Lewandowski      | [ChairChandler](https://github.com/ChairChandler)               | C, C++, Qt, HTML, CSS, JS, TS, React, Angular, Python, ML, MySQL, Pandas, Node.js Express                                           |
 
  - Java
  - Kotlin
