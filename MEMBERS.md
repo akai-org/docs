@@ -20,7 +20,8 @@
 |     Krzysztof Jerzyk      | [Jerzor](https://github.com/jerzor)                      | HTML, CSS, SASS, JS, Node.js, React.js, GSAP                    |
 |    Dawid Stasiak          | [dawids21](https://github.com/dawids21)                  | Java, Spring                                                    |
 |     Radosław Winiecki     | [radswn](https://github.com/radswn)                      | Java, Spring, Python                                            |
-|     Adam Lewandowski      | [ChairChandler](https://github.com/ChairChandler)               | C, C++, Qt, HTML, CSS, JS, TS, React, Angular, Python, ML, MySQL, Node.js Express, ElectronJS                                           |
+|     Adam Lewandowski      | [ChairChandler](https://github.com/ChairChandler)               | C, C++, Qt, HTML, CSS, JS, TS, React, Angular, Python, ML, MySQL, Node.js Express, ElectronJS  |
+| Martyna Kurz | [Mmajonez](https://github.com/Mmajonez) | Python, HTML, CSS, C++ |
 
  - Java
  - Kotlin
