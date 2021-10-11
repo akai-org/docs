@@ -22,12 +22,14 @@
 |     Radosław Winiecki     | [radswn](https://github.com/radswn)                      | Java, Spring, Python                                            |
 |     Adam Lewandowski      | [ChairChandler](https://github.com/ChairChandler)               | C, C++, Qt, HTML, CSS, JS, TS, React, Angular, Python, ML, MySQL, Node.js Express, ElectronJS  |
 | Martyna Kurz | [Mmajonez](https://github.com/Mmajonez) | Python, HTML, CSS, C++ |
+| Daniel Madzierski | [Oziaka](https://github.com/Oziaka) | Java, Spring, SpringBoot |
 
  - Java
  - Kotlin
  - Scala
  - C/C++
  - Spring
+ - SpringBoot
  - Ruby
  - Rails
  - SASS/LESS
