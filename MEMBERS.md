@@ -22,6 +22,7 @@
 |     Radosław Winiecki     | [radswn](https://github.com/radswn)                      | Java, Spring, Python                                            |
 |     Adam Lewandowski      | [ChairChandler](https://github.com/ChairChandler)               | C, C++, Qt, HTML, CSS, JS, TS, React, Angular, Python, ML, MySQL, Node.js Express, ElectronJS  |
 | Martyna Kurz | [Mmajonez](https://github.com/Mmajonez) | Python, HTML, CSS, C++ |
+| Michał Zieliński | [MichalxPZ](https://github.com/MichalxPZ) | Kotlin, Java, Python |
 
  - Java
  - Kotlin
