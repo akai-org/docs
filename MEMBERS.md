@@ -1,5 +1,6 @@
 |           Name            |              GitHub Nick                                 |             Technologies                                        |
 |---------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
+| Daniel Madzierski | [Oziaka](https://github.com/Oziaka) | Java, Spring, SpringBoot |
 | Szymon Siemieniuk | [siemieniuk](https://github.com/siemieniuk) | Python, Django, MySQL, PHP, Docker, HTML, CSS, JS |
 | Michał Zieliński | [MichalxPZ](https://github.com/MichalxPZ) | Kotlin, Java, Python |
 |    Oskar Puchalski        | [mlodyoskar](https://github.com/mlodyoskar)              | HTML, CSS, JS, React                                            |
@@ -7,12 +8,12 @@
 |     Michał Szczepaniak    | [Szczepaniak-M](https://github.com/Szczepaniak-M)        | Java, Spring, Webflux, MySQL, Python, Django, Docker, TS, Angular                       |
 | Kacper Szmitko | [KapelanJR](https://github.com/KapelanJR) | Python, HTML, CSS, C, C++, C#, Java, Django,  MySQL, Flask, Pandas |
 
-
  - Java
  - Kotlin
  - Scala
  - C/C++
  - Spring
+ - SpringBoot
  - Ruby
  - Rails
  - SASS/LESS
