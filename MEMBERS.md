@@ -8,6 +8,7 @@
 |     Michał Szczepaniak    | [Szczepaniak-M](https://github.com/Szczepaniak-M)        | Java, Spring, Webflux, MySQL, Python, Django, Docker, TS, Angular                       |
 | Kacper Szmitko | [KapelanJR](https://github.com/KapelanJR) | Python, HTML, CSS, C, C++, C#, Java, Django,  MySQL, Flask, Pandas |
 | Wojciech Toporowski | [Wojtop](https://github.com/Wojtop) | HTML, CSS, JS, React, C++, Java |
+| Łukasz Sztukiewicz | [LukaszSztukiewicz](https://github.com/LukaszSztukiewicz) | Flutter, Python, Pandas, C#, C++, HTML, CSS, JS |
 
  - Java
  - Kotlin
