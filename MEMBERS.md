@@ -9,6 +9,7 @@
 | Kacper Szmitko | [KapelanJR](https://github.com/KapelanJR) | Python, HTML, CSS, C, C++, C#, Java, Django,  MySQL, Flask, Pandas |
 | Wojciech Toporowski | [Wojtop](https://github.com/Wojtop) | HTML, CSS, JS, React, C++, Java |
 | Łukasz Sztukiewicz | [LukaszSztukiewicz](https://github.com/LukaszSztukiewicz) | Flutter, Python, Pandas, C#, C++, HTML, CSS, JS |
+| Marcin Szwarc | [whpac](https://github.com/whpac) | HTML, (S)CSS, JS/TS, PHP, MySQL |
 
  - Java
  - Kotlin
