@@ -12,7 +12,9 @@
 | Marcin Szwarc | [whpac](https://github.com/whpac) | HTML, (S)CSS, JS/TS, PHP, MySQL |
 | Dawid Stasiak | [dawids21](https://github.com/dawids21) | Java, Spring, SpringBoot
 | Michał Domasik | [Hoaqim](https://github.com/Hoaqim/) | Python, HTML, CSS, JS, React, C++, MySQL, Django, Node.js|
+| Bartosz Żelek | [bartox7777](https://github.com/bartox7777) | Python, Flask, Django, HTML, CSS, JS |
 | Mateusz Karłowski | [mati2251](https://github.com/mati2251/) | TypeScript, JavaScript, (S)CSS, HTML, Angular, React, Java, Kotlin, SQL |
+
  - Java
  - Kotlin
  - Scala
