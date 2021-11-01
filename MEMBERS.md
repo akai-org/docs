@@ -14,6 +14,7 @@
 | Michał Domasik | [Hoaqim](https://github.com/Hoaqim/) | Python, HTML, CSS, JS, React, C++, MySQL, Django, Node.js|
 | Bartosz Żelek | [bartox7777](https://github.com/bartox7777) | Python, Flask, Django, HTML, CSS, JS |
 | Mateusz Karłowski | [mati2251](https://github.com/mati2251/) | TypeScript, JavaScript, (S)CSS, HTML, Angular, React, Java, Kotlin, SQL |
+| Maciej Wojtkowiak | [MaciejWojt](https://github.com/MaciejWojt/) | Python, HTML, CSS, JS, PHP, SQL, C++ |
 
  - Java
  - Kotlin
