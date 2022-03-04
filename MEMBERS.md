@@ -16,6 +16,7 @@
 | Mateusz Karłowski | [mati2251](https://github.com/mati2251/) | TypeScript, JavaScript, (S)CSS, HTML, Angular, React, Java, Kotlin, SQL |
 | Maciej Wojtkowiak | [MaciejWojt](https://github.com/MaciejWojt/) | Python, HTML, CSS, JS, PHP, SQL, C++ |
 | Dmytro Romaniv | [Dmytro-Romaniv](https://github.com/Dmytro-Romaniv) | Python, C++, Kotlin, HTML, SQL |
+| Weronika Nowak | [werexa](https://github.com/werexa/) | PHP, HTML, CSS, JS, SQL |
 
  - Java
  - Kotlin
