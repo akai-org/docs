@@ -18,6 +18,7 @@
 | Dmytro Romaniv | [Dmytro-Romaniv](https://github.com/Dmytro-Romaniv) | Python, C++, Kotlin, HTML, SQL |
 | Weronika Nowak | [werexa](https://github.com/werexa/) | PHP, HTML, CSS, JS, SQL |
 | Adam Korba | [BbqGamer](https://github.com/BbqGamer) | C/C++, Java Script, Python, Django, Flask, Pandas, MySQL |
+| Michał Wiliński | [JanekDev](https://github.com/JanekDev) | Python, C, C++, SQL, Qt, Django, Flask, GCP |
 
  - Java
  - Kotlin
