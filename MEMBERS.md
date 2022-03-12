@@ -20,6 +20,7 @@
 | Adam Korba | [BbqGamer](https://github.com/BbqGamer) | C/C++, Java Script, Python, Django, Flask, Pandas, MySQL |
 | Michał Wiliński | [JanekDev](https://github.com/JanekDev) | Python, C, C++, SQL, Qt, Django, Flask, GCP |
 | Alan Grądecki | [agradecki](https://github.com/agradecki) | JavaScript, React, HTML, CSS, SQL |
+| Dawid Całkowski | [Nights-Wolf](https://github.com/Nights-Wolf) | HTML, CSS, JS, Java, Spring, SpringBoot |
 
  - Java
  - Kotlin
