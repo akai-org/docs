@@ -21,6 +21,7 @@
 | Michał Wiliński | [JanekDev](https://github.com/JanekDev) | Python, C, C++, SQL, Qt, Django, Flask, GCP |
 | Alan Grądecki | [agradecki](https://github.com/agradecki) | JavaScript, React, HTML, CSS, SQL |
 | Dawid Całkowski | [Nights-Wolf](https://github.com/Nights-Wolf) | HTML, CSS, JS, Java, Spring, SpringBoot |
+| Marcin Czaplicki| [MarcinCzaplicki](https://github.com/MarcinCzaplicki) | HTML, CSS, JS, React |
 
  - Java
  - Kotlin
