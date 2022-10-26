@@ -23,6 +23,7 @@
 | Dawid Całkowski | [Nights-Wolf](https://github.com/Nights-Wolf) | HTML, CSS, JS, Java, Spring, SpringBoot |
 | Marcin Czaplicki| [MarcinCzaplicki](https://github.com/MarcinCzaplicki) | HTML, CSS, JS, React |
 | Bartosz Bronikowski | [bbronek](https://github.com/bbronek) | Ruby, Ruby on Rails, Java, JS, React, (S)CSS, HTML |
+| Radosław Bujny| [rbujny](https://github.com/rbujny) | PHP, Symfony, Python, MySQL, HTML, CSS, JS |
 
  - Java
  - Kotlin
