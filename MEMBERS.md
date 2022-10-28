@@ -28,6 +28,7 @@
 | Damian Sroczyński | [Given22](https://github.com/Given22) |  JavaScript, TypeScript (S)CSS, HTML, React, Vue, Angular, ~React Native, ~Python  |
 | Adrian Wodnicki | [A-Wodnicki](https://github.com/A-Wodnicki) | HTML, (S)CSS, JS, PHP, MySQL, Python |
 | Mateusz Idziejczak | [luncenok](https://github.com/luncenok) | Kotlin, Swift, MySQL, C++ |
+| Jakub Dadzibóg | [Tesakt](https://github.com/Tesakt) | C/C++, Python, LiteSQL |
 | Grzegorz Fabiś | [qemc](https://github.com/qemc) | Python, JS, React, C++, Flask, HTML, CSS |
 | Konrad Wala | [konradwala](https://github.com/konradwala)| Java, Python, C++ |
 
