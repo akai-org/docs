@@ -24,6 +24,7 @@
 | Marcin Czaplicki| [MarcinCzaplicki](https://github.com/MarcinCzaplicki) | HTML, CSS, JS, React |
 | Bartosz Bronikowski | [bbronek](https://github.com/bbronek) | Ruby, Ruby on Rails, Java, JS, React, (S)CSS, HTML |
 | Damian Sroczyński | [Given22](https://github.com/Given22) |  JavaScript, TypeScript (S)CSS, HTML, React, Vue, Angular, ~React Native, ~Python  |
+| Mateusz Idziejczak | [luncenok](https://github.com/luncenok) | Kotlin, Swift, MySQL, C++ |
 
  - Java
  - Kotlin
