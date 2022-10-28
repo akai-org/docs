@@ -25,6 +25,8 @@
 | Bartosz Bronikowski | [bbronek](https://github.com/bbronek) | Ruby, Ruby on Rails, Java, JS, React, (S)CSS, HTML |
 | Mateusz Idziejczak | [luncenok](https://github.com/luncenok) | Kotlin, Swift, MySQL, C++ |
 | Grzegorz Fabiś | [qemc](https://github.com/qemc) | Python, JS, React, C++, Flask, HTML, CSS |
+| Konrad Wala | [konradwala](https://github.com/konradwala)| Java, Python, C++ |
+
  - Java
  - Kotlin
  - Scala
