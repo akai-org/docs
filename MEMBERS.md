@@ -23,6 +23,7 @@
 | Dawid Całkowski | [Nights-Wolf](https://github.com/Nights-Wolf) | HTML, CSS, JS, Java, Spring, SpringBoot |
 | Marcin Czaplicki| [MarcinCzaplicki](https://github.com/MarcinCzaplicki) | HTML, CSS, JS, React |
 | Bartosz Bronikowski | [bbronek](https://github.com/bbronek) | Ruby, Ruby on Rails, Java, JS, React, (S)CSS, HTML |
+| Vadym Repetskyi | [vadym218](https://github.com/vadym218) | JS, TS, React, Next, Vue, Nuxt, [etc.](https://www.linkedin.com/in/vadym-repetskyi/) |
 | Radosław Bujny| [rbujny](https://github.com/rbujny) | PHP, Symfony, Python, MySQL, HTML, CSS, JS |
 | Damian Sroczyński | [Given22](https://github.com/Given22) |  JavaScript, TypeScript (S)CSS, HTML, React, Vue, Angular, ~React Native, ~Python  |
 | Adrian Wodnicki | [A-Wodnicki](https://github.com/A-Wodnicki) | HTML, (S)CSS, JS, PHP, MySQL, Python |
