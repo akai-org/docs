@@ -31,6 +31,7 @@
 | Jakub Dadzibóg | [Tesakt](https://github.com/Tesakt) | C/C++, Python, LiteSQL |
 | Grzegorz Fabiś | [qemc](https://github.com/qemc) | Python, JS, React, C++, Flask, HTML, CSS |
 | Konrad Wala | [konradwala](https://github.com/konradwala)| Java, Python, C++ |
+| Hubert Błaszczyk | [hub-bla](https://github.com/hub-bla) | JS, React, HTML, CSS |
 
 
  - Java
