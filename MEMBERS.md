@@ -31,7 +31,7 @@
 | Jakub Dadzibóg | [Tesakt](https://github.com/Tesakt) | C/C++, Python, LiteSQL |
 | Grzegorz Fabiś | [qemc](https://github.com/qemc) | Python, JS, React, C++, Flask, HTML, CSS |
 | Konrad Wala | [konradwala](https://github.com/konradwala)| Java, Python, C++ |
-
+| Michal Borowski | [f3bot](https://github.com/f3bot) | HTML, CSS, JS |
 
  - Java
  - Kotlin
